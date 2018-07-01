@@ -1,0 +1,67 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QUIZ</string>
+    <string name="title">HUMAN ANATOMY QUIZ!</string>
+    <string name="instructions">Answer the following questions and click submit when you are done!</string>
+    <string name="submitbutton">SUBMIT</string>
+    <string name="OBJ">pick one correct answer in the following questions</string>
+    <string name="Q1">Question One</string>
+    <string name="question1">Which of the following nerves is affected in carpal tunnel syndrome?</string>
+    <string name="optiona">radial nerve</string>
+    <string name="optionb">ulna nerve</string>
+    <string name="optionc">median nerve</string>
+    <string name="optiond">vagus nerve</string>
+    <string name="Q2">Question Two</string>
+    <string name="question2">One of these is not a component of the brachial plexus</string>
+    <string name="op2tiona">roots</string>
+    <string name="op2tionb">trunk</string>
+    <string name="op2tionc">divisions</string>
+    <string name="op2tiond">class</string>
+    <string name="Q3">Question Three</string>
+    <string name="question3">Which of the following types of muscles is characterized by the presence of intercalated disc</string>
+    <string name="op3tiona">smooth muscles</string>
+    <string name="op3tionb">skeletal muscles</string>
+    <string name="op3tionc">cardiac muscles</string>
+    <string name="op3tiond">biceps brachi</string>
+    <string name="Q4">Question Four</string>
+    <string name="question4">The system responsible for support and protection of body organs is</string>
+    <string name="op4tiona">nervous system</string>
+    <string name="op4tionb">circulatory system</string>
+    <string name="op4tionc">reproductive system</string>
+    <string name="op4tiond">skeletal system</string>
+
+    <string name="TRUEFALSE">True/false questions</string>
+    <string name="Q5">Question Five</string>
+    <string name="question5">Most epithelial tissues contain blood vessels</string>
+    <string name="op5tiona">true</string>
+    <string name="op5tionb">false</string>
+    <string name="Q6">Question Six</string>
+    <string name="question6">The periosteum is highly innervated</string>
+    <string name="op6tiona">true</string>
+    <string name="op6tionb">false</string>
+    <string name="Q7">Question Seven</string>
+    <string name="question7">In movement of muscles, prime movers provide the major force for providing a specific movement.</string>
+    <string name="op7tiona">true</string>
+    <string name="op7tionb">false</string>
+
+    <string name="MCQ">Multiple choice questions</string>
+    <string name="Q8">Question Eight</string>
+    <string name="question8">Cells are made up of the following</string>
+    <string name="op8tiona">cell membrane</string>
+    <string name="op8tionb">cytoplasm</string>
+    <string name="op8tionc">nucleus</string>
+    <string name="op8tiond">epithelial</string>
+    <string name="Q9">Question Nine</string>
+    <string name="question9">Types of glands include</string>
+    <string name="op9tiona">endocrine gland</string>
+    <string name="op9tionb">exocrine gland</string>
+    <string name="op9tionc">hexocrine gland</string>
+    <string name="op9tiond">indocrine gland</string>
+
+    <string name="SUB">Fill in your answer</string>
+    <string name="Q10">Question Ten</string>
+    <string name="question10">What is the major excretory organ in the body</string>
+    <string name="Ans">Answer</string>
+    <string name="scoreMessage">You got <xliff:g example="10" id="score">%d</xliff:g> out ten questions right</string>
+
+
+</resources>
